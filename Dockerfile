@@ -4,7 +4,7 @@
 #   docker run -d -p 8787:8787 --env-file .env -v openmuse-data:/data -v $PWD/workspace:/workspace openmuse
 #   docker run -it --rm --env-file .env -v openmuse-data:/data -v $PWD/workspace:/workspace openmuse chat
 #
-FROM python:3.12-slim
+FROM python:3.14-slim
 
 # Override for a regional PyPI mirror, e.g.
 #   docker build --build-arg PIP_INDEX_URL=https://pypi.tuna.tsinghua.edu.cn/simple .
