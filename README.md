@@ -1,3 +1,5 @@
+> **This repository has moved.** OpenMuse continues as **[nanoMuse](https://github.com/nano-muse/nanoMuse)** — the same code, now `pip install nanomuse`, with the Android app and phone-GUI operation for apps that have no API (微信, 支付宝, 12306 …). This repository is kept as an archive of 0.1.0 – 0.6.0 and is no longer maintained; the `openmuse` package on PyPI stays at 0.6.0.
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/OpenMuseAgent/OpenMuse/main/docs/cover.png" width="160" alt="OpenMuse">
 </p>

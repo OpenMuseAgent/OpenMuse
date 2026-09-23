@@ -1,3 +1,5 @@
+> **本仓库已迁移。** OpenMuse 以 **[nanoMuse](https://github.com/nano-muse/nanoMuse)** 的名字继续开发——同一套代码，现在是 `pip install nanomuse`，并加上了 Android App 和对没有 API 的应用（微信、支付宝、12306……）的手机 GUI 操作。本仓库作为 0.1.0 – 0.6.0 的归档保留，不再维护；PyPI 上的 `openmuse` 包停在 0.6.0。
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/OpenMuseAgent/OpenMuse/main/docs/cover.png" width="160" alt="OpenMuse">
 </p>
